@@ -74,6 +74,8 @@
 			<groupId>cn.binux</groupId>
 			<artifactId>spring-boot-starter-redis</artifactId>
 			<version>0.0.1</version>
+			<scope>system</scope>
+			<systemPath>${project.basedir}/../other/spring-boot-starter-redis-0.0.1.jar</systemPath>
 		</dependency>
 		<dependency>
 			<groupId>org.freemarker</groupId>

@@ -41,6 +41,8 @@
 			<groupId>cn.binux</groupId>
 			<artifactId>spring-boot-starter-druid</artifactId>
 			<version>0.0.1</version>
+			<scope>system</scope>
+			<systemPath>${project.basedir}/../other/spring-boot-starter-druid-0.0.1.jar</systemPath>
 		</dependency>
 		<dependency>
 			<groupId>org.projectlombok</groupId>
